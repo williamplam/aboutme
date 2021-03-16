@@ -3,33 +3,53 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-03-16T00:41:59-04:00</updated>
+    <updated>2021-03-16T00:47:47-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
     <id>https://williamplam.github.io/aboutme</id>
 
     <entry>
-        <title>testing</title>
+        <title>Exit 6 Robotics</title>
+        <author>
+            <name>Bill Lam</name>
+        </author>
+        <link href="https://williamplam.github.io/aboutme/exit-6-robotics.html"/>
+        <id>https://williamplam.github.io/aboutme/exit-6-robotics.html</id>
+
+        <updated>2021-03-16T00:47:47-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Exit 5 Robotics</title>
         <author>
             <name>Bill Lam</name>
         </author>
         <link href="https://williamplam.github.io/aboutme/testing.html"/>
         <id>https://williamplam.github.io/aboutme/testing.html</id>
 
-        <updated>2021-03-16T00:41:59-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-03-16T00:47:25-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is about Exit 5 Robotics
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is about Exit 5 Robotics</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Hello</title>
+        <title>Exit 5A Robotics</title>
         <author>
             <name>Bill Lam</name>
         </author>
         <link href="https://williamplam.github.io/aboutme/hello.html"/>
         <id>https://williamplam.github.io/aboutme/hello.html</id>
 
-        <updated>2021-03-16T00:12:20-04:00</updated>
+        <updated>2021-03-16T00:47:35-04:00</updated>
             <summary></summary>
         <content></content>
     </entry>

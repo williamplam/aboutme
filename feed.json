@@ -10,28 +10,42 @@
     },
     "items": [
         {
+            "id": "https://williamplam.github.io/aboutme/exit-6-robotics.html",
+            "url": "https://williamplam.github.io/aboutme/exit-6-robotics.html",
+            "title": "Exit 6 Robotics",
+            "author": {
+                "name": "Bill Lam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-16T00:47:47-04:00",
+            "date_modified": "2021-03-16T00:47:47-04:00"
+        },
+        {
             "id": "https://williamplam.github.io/aboutme/testing.html",
             "url": "https://williamplam.github.io/aboutme/testing.html",
-            "title": "testing",
+            "title": "Exit 5 Robotics",
+            "summary": "This is about Exit 5 Robotics",
+            "content_html": "<p>This is about Exit 5 Robotics</p>",
             "author": {
                 "name": "Bill Lam"
             },
             "tags": [
             ],
             "date_published": "2021-03-16T00:41:40-04:00",
-            "date_modified": "2021-03-16T00:41:59-04:00"
+            "date_modified": "2021-03-16T00:47:25-04:00"
         },
         {
             "id": "https://williamplam.github.io/aboutme/hello.html",
             "url": "https://williamplam.github.io/aboutme/hello.html",
-            "title": "Hello",
+            "title": "Exit 5A Robotics",
             "author": {
                 "name": "Bill Lam"
             },
             "tags": [
             ],
             "date_published": "2021-03-16T00:11:43-04:00",
-            "date_modified": "2021-03-16T00:12:20-04:00"
+            "date_modified": "2021-03-16T00:47:35-04:00"
         }
     ]
 }
