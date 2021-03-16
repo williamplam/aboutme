@@ -3,12 +3,32 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-03-16T00:52:55-04:00</updated>
+    <updated>2021-03-16T00:53:44-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
     <id>https://williamplam.github.io/aboutme</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Bill Lam</name>
+        </author>
+        <link href="https://williamplam.github.io/aboutme/about-me.html"/>
+        <id>https://williamplam.github.io/aboutme/about-me.html</id>
+
+        <updated>2021-03-16T00:53:44-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a post about me
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a post about me</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Exit 6 Robotics</title>
         <author>
