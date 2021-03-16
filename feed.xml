@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-03-16T00:47:47-04:00</updated>
+    <updated>2021-03-16T00:52:55-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -17,9 +17,17 @@
         <link href="https://williamplam.github.io/aboutme/exit-6-robotics.html"/>
         <id>https://williamplam.github.io/aboutme/exit-6-robotics.html</id>
 
-        <updated>2021-03-16T00:47:47-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-03-16T00:52:55-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Exit 6 Robotics was founded in 2017 and is currently active. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Exit 6 Robotics was founded in 2017 and is currently active. </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Exit 5 Robotics</title>
@@ -29,15 +37,15 @@
         <link href="https://williamplam.github.io/aboutme/testing.html"/>
         <id>https://williamplam.github.io/aboutme/testing.html</id>
 
-        <updated>2021-03-16T00:47:25-04:00</updated>
+        <updated>2021-03-16T00:51:55-04:00</updated>
             <summary>
                 <![CDATA[
-                    This is about Exit 5 Robotics
+                    Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is about Exit 5 Robotics</p>
+                <p>Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.</p>
             ]]>
         </content>
     </entry>
@@ -49,8 +57,16 @@
         <link href="https://williamplam.github.io/aboutme/hello.html"/>
         <id>https://williamplam.github.io/aboutme/hello.html</id>
 
-        <updated>2021-03-16T00:47:35-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-03-16T00:52:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
