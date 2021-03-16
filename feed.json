@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "William Lam",
+    "description": "",
+    "home_page_url": "https://williamplam.github.io/aboutme",
+    "feed_url": "https://williamplam.github.io/aboutme/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bill Lam"
+    },
+    "items": [
+        {
+            "id": "https://williamplam.github.io/aboutme/hello.html",
+            "url": "https://williamplam.github.io/aboutme/hello.html",
+            "title": "Hello",
+            "author": {
+                "name": "Bill Lam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-16T00:11:43-04:00",
+            "date_modified": "2021-03-16T00:12:20-04:00"
+        }
+    ]
+}
