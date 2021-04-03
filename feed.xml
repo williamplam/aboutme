@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-03T17:27:05-04:00</updated>
+    <updated>2021-04-03T17:36:20-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -84,10 +84,10 @@
         <link href="https://williamplam.github.io/aboutme/equipment.html"/>
         <id>https://williamplam.github.io/aboutme/equipment.html</id>
 
-        <updated>2021-04-03T17:27:05-04:00</updated>
+        <updated>2021-04-03T17:36:20-04:00</updated>
             <summary>
                 <![CDATA[
-                    40W Laser Cutter / Engraver for cutting plywood and some plasticsShapeoko XXL CNC for machining 750mm x 750mm x 65mm volume of wood, plastics, soft metalsNomad 883 CNC for precision machining 8" x 8" x 3" volume of of wood, plastics, soft metals 
+                    40W Laser Cutter / Engraver for cutting plywood and some plasticsShapeoko XXL CNC for machining 750mm x 750mm x 65mm volume of wood, plastics, soft metalsNomad 883 CNC for precision machining 8" x 8" x 3" volume of of wood, plastics, soft metalsShaper Origin CNC&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -96,8 +96,15 @@
 <li><a href="https://glowforge.com/" target="_blank" rel="noopener noreferrer">40W Laser Cutter </a>/ Engraver for cutting plywood and some plastics</li>
 <li><a href="https://www.inventables.com/technologies/x-carve" target="_blank" rel="noopener noreferrer">Shapeoko XXL CNC </a>for machining 750mm x 750mm x 65mm volume of wood, plastics, soft metals</li>
 <li><a href="https://shop.carbide3d.com/products/nomad883?variant=1257580459" target="_blank" rel="noopener noreferrer">Nomad 883 CNC </a>for precision machining 8" x 8" x 3" volume of of wood, plastics, soft metals</li>
-<li> </li>
+<li><a href="https://www.shapertools.com/en-us/" target="_blank" rel="noopener noreferrer">Shaper Origin CNC </a>for larger 2d cuts</li>
+<li><a href="https://www.forneyind.com/products/forney-easy-weld-140-mp-machine" target="_blank" rel="noopener noreferrer">140 Amp MIG DC TIG Welder</a> </li>
+<li>Band Saw</li>
+<li>Drill Press</li>
+<li>Belt Sander</li>
+<li>Scroll Saw</li>
+<li>Table Saw</li>
 </ul>
+<figure class="post__image"><img loading="lazy"  src="https://williamplam.github.io/aboutme/media/posts/11/2021-04-03_173521.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://williamplam.github.io/aboutme/media/posts/11/responsive/2021-04-03_173521-xs.jpg 300w ,https://williamplam.github.io/aboutme/media/posts/11/responsive/2021-04-03_173521-sm.jpg 480w ,https://williamplam.github.io/aboutme/media/posts/11/responsive/2021-04-03_173521-md.jpg 768w ,https://williamplam.github.io/aboutme/media/posts/11/responsive/2021-04-03_173521-lg.jpg 1024w ,https://williamplam.github.io/aboutme/media/posts/11/responsive/2021-04-03_173521-xl.jpg 1360w ,https://williamplam.github.io/aboutme/media/posts/11/responsive/2021-04-03_173521-2xl.jpg 1600w"  alt="" width="789" height="1059"></figure>
             ]]>
         </content>
     </entry>
