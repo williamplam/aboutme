@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-03T16:10:13-04:00</updated>
+    <updated>2021-04-03T16:34:57-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -58,9 +58,23 @@
         <link href="https://williamplam.github.io/aboutme/more-info.html"/>
         <id>https://williamplam.github.io/aboutme/more-info.html</id>
 
-        <updated>2021-04-03T14:38:24-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-03T16:34:57-04:00</updated>
+            <summary>
+                <![CDATA[
+                    About MeHow Did I Get Here?Events and CompetitionsEquipment and ToolsRobotics Teams
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="https://williamplam.github.io/aboutme/about-me.html">About Me</a></li>
+<li><a href="https://williamplam.github.io/aboutme/how-did-i-get-here.html">How Did I Get Here?</a><a href="#INTERNAL_LINK#/post/null"></a></li>
+<li><a href="https://williamplam.github.io/aboutme/events-and-competitions.html">Events and Competitions</a></li>
+<li><a href="https://williamplam.github.io/aboutme/equipment.html">Equipment and Tools</a></li>
+<li><a href="https://williamplam.github.io/aboutme/robotics-teams.html">Robotics Teams</a></li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Equipment / Tools</title>
@@ -211,7 +225,7 @@
         <link href="https://williamplam.github.io/aboutme/about-me.html"/>
         <id>https://williamplam.github.io/aboutme/about-me.html</id>
 
-        <updated>2021-04-03T15:04:26-04:00</updated>
+        <updated>2021-04-03T16:29:05-04:00</updated>
             <summary>
                 <![CDATA[
                     Outside of my day job as a global sales manager for a technology company, I have TONS of fun helping others in STEM endeavors. Along for this journey are a wonderfully supportive partner, 3 great children, and other fantastic like-minded parents. This incredible group has&hellip;
@@ -223,9 +237,10 @@
 <p><span style="font-weight: 400;">As a volunteer coach for neighborhood robotics teams since 2010, I've had the honor of working with 63 talented kids through 130+ competition events spanning 28 robotics campaign seasons. We have been blessed with great kids that aspire for greatness and have won over 55 awards, with 10 at the national level. In my daytime endeavors, I meet amazing engineers around the world who have a passion for making the best possible products.</span></p>
 <p><span style="font-weight: 400;">Learning takes place in three locations: our makerspace, robotics competition venues, and STEM outreaches to underrepresented and disadvantaged communities. </span></p>
 <p><span style="font-weight: 400;">A majority of our teams work in our makerspace programming robots, discussing teamwork, good stewardship, and core values of who/what we are. At robotic competition venues, students learn the merits of teamwork as they pair up to compete against other pairs of teams. Until COVID our teams typically complete about 10 outreaches per year to help promote robotics and STEM to underrepresented and disadvantaged communities.</span></p>
-<p><span style="font-weight: 400;">I have a BSEE/MS-IT/MBA and my first job was at AT&amp;T Bell Labs, but have spent the last 16 years years in technical sales. I <a href="https://williamplam.github.io/aboutme/how-did-i-get-here.html">grew up </a>and started working in our family restaurant at age 7 and continued helping for the next 22 years. I saw how difficult life was for people without college degrees. Although not in full time philanthropy, I have always had a desire to help others.</span></p>
+<p><span style="font-weight: 400;">With a BSEE, MS-IT, and MBA my career has covered small startups, mid-size companies and technical behemoths like AT&amp;T Bell Labs. With the last 16 years years in technical sales I have had the amazing experience of meeting talented adults living our their dreams designing and bringing to market some incredible products. I <a href="https://williamplam.github.io/aboutme/how-did-i-get-here.html">grew up </a>and started working in our family restaurant at age 7 and continued helping for the next 22 years. I saw how difficult life was for people without college degrees. Although not in full time philanthropy, I have always had a desire to help others.</span></p>
 <p><a href="https://www.instagram.com/billplam/">https://www.instagram.com/billplam/</a></p>
-<p>https://www.linkedin.com/in/williamplam/</p>
+<p><a href="https://www.linkedin.com/in/williamplam/">https://www.linkedin.com/in/williamplam/</a></p>
+<p> </p>
 <p> </p>
             ]]>
         </content>
