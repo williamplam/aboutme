@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-03T12:35:00-04:00</updated>
+    <updated>2021-04-03T12:38:23-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -54,9 +54,18 @@
         <link href="https://williamplam.github.io/aboutme/american-robotics-open-championship.html"/>
         <id>https://williamplam.github.io/aboutme/american-robotics-open-championship.html</id>
 
-        <updated>2021-04-03T10:30:27-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-03T12:38:23-04:00</updated>
+            <summary>
+                <![CDATA[
+                    More to follow. A lot more! Mission Statement: To benefit today’s youth, conduct non-profit robotics competitions during the age of COVID in the safest manner possible through modern workplace tools and a highly mobile, highly flexible volunteer support staff representing the diverse demographics of America today.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>More to follow. A lot more!</p>
+<p><strong><span class="il">Mission</span> <span class="il">Statement</span>: </strong>To benefit today’s youth, conduct non-profit robotics competitions during the age of COVID in the safest manner possible through modern workplace tools and a highly mobile, highly flexible volunteer support staff representing the diverse demographics of America today.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>How Did I Get Here?</title>
