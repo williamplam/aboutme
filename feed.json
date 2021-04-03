@@ -11,6 +11,32 @@
     },
     "items": [
         {
+            "id": "https://williamplam.github.io/aboutme/equipment.html",
+            "url": "https://williamplam.github.io/aboutme/equipment.html",
+            "title": "Equipment / Tools",
+            "author": {
+                "name": "Bill Lam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-03T14:19:10-04:00",
+            "date_modified": "2021-04-03T14:19:35-04:00"
+        },
+        {
+            "id": "https://williamplam.github.io/aboutme/stem-outreach-events-thats-a-lot.html",
+            "url": "https://williamplam.github.io/aboutme/stem-outreach-events-thats-a-lot.html",
+            "title": "STEM Outreach Events - that&#x27;s a lot! ",
+            "summary": "Harrison Elementary 2010 Harrison Elementary 2011 Hightstown Library West Orange Library East Orange Library Moonbots Liberty Science Center JCC (Jewish Community Center) Senior Care Livingston Sunrise Senior Center Find Form Grow Robotics Team Find Form Grow Robotics Team Find Form Grow Robotics Team Find Form&hellip;",
+            "content_html": "<p>Harrison Elementary 2010</p>\n<p>Harrison Elementary 2011</p>\n<p>Hightstown Library</p>\n<p>West Orange Library</p>\n<p>East Orange Library</p>\n<p>Moonbots Liberty Science Center</p>\n<p>JCC (Jewish Community Center) Senior Care</p>\n<p>Livingston Sunrise Senior Center</p>\n<p>Find Form Grow Robotics Team</p>\n<p>Find Form Grow Robotics Team</p>\n<p>Find Form Grow Robotics Team</p>\n<p>Find Form Grow Robotics Team</p>\n<p>Find Form Grow Robotics Team</p>\n<p>Harrison Elementary</p>\n<p>Girl Scouts Livingston </p>\n<p>Girl Scouts Harrison</p>\n<p>Girl Scouts West Orange</p>\n<p>Girl Scouts Mt. Pleasant</p>\n<p>Liberty Science Center 2012 e-Week</p>\n<p>Liberty Science Center 2013 e-Week</p>\n<p>Liberty Science Center 2014 e-Week</p>\n<p>Liberty Science Center 2014 FLL Qualifier</p>\n<p>Liberty Science Center 2014 FTC Qualifier</p>",
+            "author": {
+                "name": "Bill Lam"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-03T11:26:02-04:00",
+            "date_modified": "2021-04-03T11:35:00-04:00"
+        },
+        {
             "id": "https://williamplam.github.io/aboutme/nj-wro-world-robot-olympiad-qualifiers-2017-2018-2019-2022.html",
             "url": "https://williamplam.github.io/aboutme/nj-wro-world-robot-olympiad-qualifiers-2017-2018-2019-2022.html",
             "title": "NJ WRO (World Robot Olympiad) Qualifiers 2017, 2018, 2019, 2022",
