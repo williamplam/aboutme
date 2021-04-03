@@ -3,12 +3,41 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-03T15:24:39-04:00</updated>
+    <updated>2021-04-03T16:10:13-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
     <id>https://williamplam.github.io/aboutme</id>
 
+    <entry>
+        <title>Events &amp; Competitions</title>
+        <author>
+            <name>Bill Lam</name>
+        </author>
+        <link href="https://williamplam.github.io/aboutme/events-and-competitions.html"/>
+        <id>https://williamplam.github.io/aboutme/events-and-competitions.html</id>
+
+        <updated>2021-04-03T15:47:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                    An incomplete compilation of events &amp; competitions that I've organized or run or organize &amp; run 2014 FLL Qualifier @ Liberty Science Center (Dec 6) 2015 FTC Qualifier @ Liberty Science Center (Jan 3) 2017 NJ World Robot Olympiad Qualifier (Aug 5) 2018 Girls in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>An incomplete compilation of events &amp; competitions that I've organized or run or organize &amp; run</p>
+<p>2014 FLL Qualifier @ Liberty Science Center (Dec 6)</p>
+<p>2015 FTC Qualifier @ Liberty Science Center (Jan 3)</p>
+<p>2017 NJ World Robot Olympiad Qualifier (Aug 5)</p>
+<p>2018 Girls in Engineering Day @ Liberty Science Center (Feb 17)</p>
+<p>2018 NJ World Robot Olympiad Qualifier (Aug 4)</p>
+<p>2019 Women in Engineering Day @ Liberty Science Center (Mar 16)</p>
+<p>2019 NJ World Robot Olympiad Qualifier (Aug 3)</p>
+<p>2019 US National WRO WeDo Championships @ Juniper Dome (Sep 15)</p>
+<p>Canceled all events for 2020 &amp; 1H2021 due to COVID. Hoping to resume event planning in 2H2021 safe conditions permitting.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Robotics Teams</title>
         <author>
@@ -53,20 +82,21 @@
         <link href="https://williamplam.github.io/aboutme/stem-outreach-events-thats-a-lot.html"/>
         <id>https://williamplam.github.io/aboutme/stem-outreach-events-thats-a-lot.html</id>
 
-        <updated>2021-04-03T11:35:00-04:00</updated>
+        <updated>2021-04-03T16:10:13-04:00</updated>
             <summary>
                 <![CDATA[
-                    Harrison Elementary 2010 Harrison Elementary 2011 Hightstown Library West Orange Library East Orange Library Moonbots Liberty Science Center JCC (Jewish Community Center) Senior Care Livingston Sunrise Senior Center Find Form Grow Robotics Team Find Form Grow Robotics Team Find Form Grow Robotics Team Find Form&hellip;
+                    2010 Harrison Elementary 2010 2011 Harrison Elementary 2011 Hightstown Library West Orange Library East Orange Library Moonbots Liberty Science Center 2014 Aug 5 National Night Out - Exit 5A Robotics JCC (Jewish Community Center) Senior Care Livingston Sunrise Senior Center Find Form Grow Robotics Team&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Harrison Elementary 2010</p>
-<p>Harrison Elementary 2011</p>
+                <p>2010 Harrison Elementary 2010</p>
+<p>2011 Harrison Elementary 2011</p>
 <p>Hightstown Library</p>
 <p>West Orange Library</p>
 <p>East Orange Library</p>
 <p>Moonbots Liberty Science Center</p>
+<p><a href="https://www.livingstonrobotics.org/2014/08/06/exit-5a-robotics-race-the-police-robots-livingston-police-departments-national-night-out/" target="_blank" rel="noopener noreferrer">2014 Aug 5 National Night Out - Exit 5A Robotics</a></p>
 <p>JCC (Jewish Community Center) Senior Care</p>
 <p>Livingston Sunrise Senior Center</p>
 <p>Find Form Grow Robotics Team</p>
@@ -197,37 +227,6 @@
 <p><a href="https://www.instagram.com/billplam/">https://www.instagram.com/billplam/</a></p>
 <p>https://www.linkedin.com/in/williamplam/</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Exit 6 Robotics</title>
-        <author>
-            <name>Bill Lam</name>
-        </author>
-        <link href="https://williamplam.github.io/aboutme/exit-6-robotics.html"/>
-        <id>https://williamplam.github.io/aboutme/exit-6-robotics.html</id>
-
-        <updated>2021-04-03T14:57:39-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Exit 6 Robotics was founded in 2017 and is currently active. You can find out more about this team at: Team Awards: 2019/2020 FLL Detroit World Festival (Canceled COVID19)– Invite 2019/2020 FLL North NJ State Championships – 1st Place Champions Award 2019/2020 FLL Hillsborough Qualifier –&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Exit 6 Robotics was founded in 2017 and is currently active. </p>
-<h2><strong><span style="color: #e03e2d;">SHOW SOME OF THEIR CREATIONS &amp; PICTURES</span></strong></h2>
-<p> </p>
-<p>You can find out more about this team at:</p>
-<ul>
-<li><a href="https://www.facebook.com/exit6robotics/">https://www.facebook.com/exit6robotics/</a></li>
-<li><a href="https://www.instagram.com/exit6robotics/">https://www.instagram.com/exit6robotics/</a></li>
-<li><a href="https://www.livingstonrobotics.org/teams/vex/exit6robotics/">https://www.livingstonrobotics.org/teams/vex/exit6robotics/</a></li>
-</ul>
-<p><strong>Team Awards:</strong></p>
-<p><strong>2019/2020 FLL Detroit World Festival </strong>(Canceled COVID19)<strong>– Invite<br></strong><strong>2019/2020 FLL North NJ State Championships  – 1st Place Champions Award<br></strong>2019/2020 FLL Hillsborough Qualifier – 2nd Place Project Award<strong><br>2018/2019 CREATE US Open Championships VEX IQ – Design Award</strong><br><strong>2018/2019 VEX IQ NJ State Championships – Judges Award</strong><br>2018/2019 VEX IQ McManus Qualifier – Design Award<br>2018/2019 VEX IQ Ranney Qualifier – 1st Place Teamwork Challenge Award<br>2018/2019 VEX IQ Rosa Qualifier – 1st Place Teamwork Challenge Award, Design Award<br>2018/2019 VEX IQ Long Hill Qualifier – 2nd Place Skills Award, 1st Place Teamwork Challenge Award<br>2017/2018 VEX IQ World Championships – Elementary Division – Skills Ranking 102 of 600 teams<br><strong>2017/2018 VEX IQ NJ State Championships  – Excellence Award</strong><br><strong>2017/2018 VEX IQ NJ State Championships – 2nd Place Teamwork Challenge Award</strong><br>2017/2018 VEX IQ McManus Qualifier – STEM Research Project Award<strong><br></strong>2017/2018 VEX IQ Mountain Lakes Qualifier – STEM Research Project Award<strong><br></strong></p>
-<p><strong>Coaches: </strong>Carmen Yung, Bill Lam, Jamie Lerner<strong><br></strong><strong>Youth Mentor: </strong>Annica Lam</p>
             ]]>
         </content>
     </entry>
