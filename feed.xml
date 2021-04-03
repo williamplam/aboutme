@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-03T16:52:22-04:00</updated>
+    <updated>2021-04-03T17:27:05-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -58,7 +58,7 @@
         <link href="https://williamplam.github.io/aboutme/more-info.html"/>
         <id>https://williamplam.github.io/aboutme/more-info.html</id>
 
-        <updated>2021-04-03T16:34:57-04:00</updated>
+        <updated>2021-04-03T16:52:49-04:00</updated>
             <summary>
                 <![CDATA[
                     About MeHow Did I Get Here?Events and CompetitionsEquipment and ToolsRobotics Teams
@@ -84,9 +84,22 @@
         <link href="https://williamplam.github.io/aboutme/equipment.html"/>
         <id>https://williamplam.github.io/aboutme/equipment.html</id>
 
-        <updated>2021-04-03T14:19:35-04:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-03T17:27:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                    40W Laser Cutter / Engraver for cutting plywood and some plasticsShapeoko XXL CNC for machining 750mm x 750mm x 65mm volume of wood, plastics, soft metalsNomad 883 CNC for precision machining 8" x 8" x 3" volume of of wood, plastics, soft metals 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="https://glowforge.com/" target="_blank" rel="noopener noreferrer">40W Laser Cutter </a>/ Engraver for cutting plywood and some plastics</li>
+<li><a href="https://www.inventables.com/technologies/x-carve" target="_blank" rel="noopener noreferrer">Shapeoko XXL CNC </a>for machining 750mm x 750mm x 65mm volume of wood, plastics, soft metals</li>
+<li><a href="https://shop.carbide3d.com/products/nomad883?variant=1257580459" target="_blank" rel="noopener noreferrer">Nomad 883 CNC </a>for precision machining 8" x 8" x 3" volume of of wood, plastics, soft metals</li>
+<li> </li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>STEM Outreach Events </title>
@@ -96,7 +109,7 @@
         <link href="https://williamplam.github.io/aboutme/stem-outreach-events-thats-a-lot.html"/>
         <id>https://williamplam.github.io/aboutme/stem-outreach-events-thats-a-lot.html</id>
 
-        <updated>2021-04-03T16:41:43-04:00</updated>
+        <updated>2021-04-03T17:19:02-04:00</updated>
             <summary>
                 <![CDATA[
                     2010 Harrison Elementary 2010 2011 Harrison Elementary 2011 Hightstown Library West Orange Library East Orange Library Moonbots Liberty Science Center 2014 Aug 5 National Night Out - Exit 5A Robotics JCC (Jewish Community Center) Senior Care Livingston Sunrise Senior Center Find Form Grow Robotics Team&hellip;
@@ -118,6 +131,7 @@
 <p>Find Form Grow Robotics Team</p>
 <p>Find Form Grow Robotics Team</p>
 <p>Find Form Grow Robotics Team</p>
+<p><a href="https://www.livingstonrobotics.org/2018/10/21/recapping-exit-5a-robotics-fll-ama-first-lego-league-ask-me-anything/" target="_blank" rel="noopener noreferrer">2018 Oct 14 Ask Me Anything - Exit 5A Robotics</a></p>
 <p>Harrison Elementary</p>
 <p>Girl Scouts Livingston </p>
 <p>Girl Scouts Harrison</p>
