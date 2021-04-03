@@ -96,29 +96,29 @@
             "id": "https://williamplam.github.io/aboutme/testing.html",
             "url": "https://williamplam.github.io/aboutme/testing.html",
             "title": "Exit 5 Robotics",
-            "summary": "Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.",
-            "content_html": "<p>Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.</p>",
+            "summary": "Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics. Find out more at:https://www.facebook.com/Exit5Robotics/https://www.livingstonrobotics.org/teams/ftc/exit-5-robotics/",
+            "content_html": "<p>Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.</p>\n<p>Find out more at:</p>\n<ul>\n<li><a href=\"https://www.facebook.com/Exit5Robotics/\">https://www.facebook.com/Exit5Robotics/</a></li>\n<li><a href=\"https://www.livingstonrobotics.org/teams/ftc/exit-5-robotics/\">https://www.livingstonrobotics.org/teams/ftc/exit-5-robotics/</a></li>\n</ul>",
             "author": {
                 "name": "Bill Lam"
             },
             "tags": [
             ],
             "date_published": "2021-03-16T00:41:40-04:00",
-            "date_modified": "2021-03-16T00:51:55-04:00"
+            "date_modified": "2021-04-03T13:21:20-04:00"
         },
         {
             "id": "https://williamplam.github.io/aboutme/hello.html",
             "url": "https://williamplam.github.io/aboutme/hello.html",
             "title": "Exit 5A Robotics",
-            "summary": "Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.",
-            "content_html": "<p>Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.</p>",
+            "summary": "Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics. Find out more at:https://www.instagram.com/exit5aroboticsofficial/https://www.livingstonrobotics.org/teams/fll/exit-5a-robotics/https://www.facebook.com/exit5arobotics/ ",
+            "content_html": "<p>Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.</p>\n<p>Find out more at:</p>\n<ul>\n<li><a href=\"https://www.instagram.com/exit5aroboticsofficial/\">https://www.instagram.com/exit5aroboticsofficial/</a></li>\n<li><a href=\"https://www.livingstonrobotics.org/teams/fll/exit-5a-robotics/\">https://www.livingstonrobotics.org/teams/fll/exit-5a-robotics/</a></li>\n<li><a href=\"https://www.facebook.com/exit5arobotics/\">https://www.facebook.com/exit5arobotics/</a></li>\n<li> </li>\n</ul>",
             "author": {
                 "name": "Bill Lam"
             },
             "tags": [
             ],
             "date_published": "2021-03-16T00:11:43-04:00",
-            "date_modified": "2021-03-16T00:52:13-04:00"
+            "date_modified": "2021-04-03T13:19:59-04:00"
         }
     ]
 }

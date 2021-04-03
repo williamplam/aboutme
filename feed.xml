@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-03T13:17:56-04:00</updated>
+    <updated>2021-04-03T13:21:20-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -156,15 +156,20 @@
         <link href="https://williamplam.github.io/aboutme/testing.html"/>
         <id>https://williamplam.github.io/aboutme/testing.html</id>
 
-        <updated>2021-03-16T00:51:55-04:00</updated>
+        <updated>2021-04-03T13:21:20-04:00</updated>
             <summary>
                 <![CDATA[
-                    Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.
+                    Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics. Find out more at:https://www.facebook.com/Exit5Robotics/https://www.livingstonrobotics.org/teams/ftc/exit-5-robotics/
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Exit 5 Robotics was founded in 2010 and still active and collaborating with Exit 5A Robotics.</p>
+<p>Find out more at:</p>
+<ul>
+<li><a href="https://www.facebook.com/Exit5Robotics/">https://www.facebook.com/Exit5Robotics/</a></li>
+<li><a href="https://www.livingstonrobotics.org/teams/ftc/exit-5-robotics/">https://www.livingstonrobotics.org/teams/ftc/exit-5-robotics/</a></li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -176,15 +181,22 @@
         <link href="https://williamplam.github.io/aboutme/hello.html"/>
         <id>https://williamplam.github.io/aboutme/hello.html</id>
 
-        <updated>2021-03-16T00:52:13-04:00</updated>
+        <updated>2021-04-03T13:19:59-04:00</updated>
             <summary>
                 <![CDATA[
-                    Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.
+                    Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics. Find out more at:https://www.instagram.com/exit5aroboticsofficial/https://www.livingstonrobotics.org/teams/fll/exit-5a-robotics/https://www.facebook.com/exit5arobotics/ 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Exit 5A Robotics was started in 2014 and currently is active today, collaborating with Exit 5 Robotics.</p>
+<p>Find out more at:</p>
+<ul>
+<li><a href="https://www.instagram.com/exit5aroboticsofficial/">https://www.instagram.com/exit5aroboticsofficial/</a></li>
+<li><a href="https://www.livingstonrobotics.org/teams/fll/exit-5a-robotics/">https://www.livingstonrobotics.org/teams/fll/exit-5a-robotics/</a></li>
+<li><a href="https://www.facebook.com/exit5arobotics/">https://www.facebook.com/exit5arobotics/</a></li>
+<li> </li>
+</ul>
             ]]>
         </content>
     </entry>
