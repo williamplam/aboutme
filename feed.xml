@@ -3,7 +3,7 @@
     <title>William Lam</title>
     <link href="https://williamplam.github.io/aboutme/feed.xml" rel="self" />
     <link href="https://williamplam.github.io/aboutme" />
-    <updated>2021-04-06T09:48:07-04:00</updated>
+    <updated>2021-04-06T10:07:45-04:00</updated>
     <author>
         <name>Bill Lam</name>
     </author>
@@ -136,18 +136,47 @@
         <link href="https://williamplam.github.io/aboutme/robotics-teams.html"/>
         <id>https://williamplam.github.io/aboutme/robotics-teams.html</id>
 
-        <updated>2021-04-04T23:42:15-04:00</updated>
+        <updated>2021-04-06T10:07:45-04:00</updated>
             <summary>
                 <![CDATA[
-                    Exit 5A Robotics Exit 6 Robotics Exit 5 Robotics 
+                    Exit 5A Robotics Exit 6 Robotics Exit 5 Robotics2010/11 FLL Body Forward2011 RoboCup Junior Rescue2011/12 FLL Food Factor2012 RoboCup Junior Rescue (Team1)2012 RoboCup Junior Rescue (Team2)2012 eCybermission2012/13 FLL Senior Solutions2013/14 FLL Nature's Fury2014 Moonbots2014/15 FTC2015 FTC Summer Scrimmage Season2015 WRO (World Robot Olympiad) Senior Regular 2015/16&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><a href="https://williamplam.github.io/aboutme/hello.html">Exit 5A Robotics</a></p>
+<ul>
+<li> </li>
+<li>2019/2020 CREATE Whirlwind Drone</li>
+</ul>
 <p><a href="https://williamplam.github.io/aboutme/exit-6-robotics.html">Exit 6 Robotics</a></p>
 <p><a href="https://williamplam.github.io/aboutme/testing.html">Exit 5 Robotics</a></p>
-<p> </p>
+<ul>
+<li>2010/11 FLL Body Forward</li>
+<li>2011 RoboCup Junior Rescue</li>
+<li>2011/12 FLL Food Factor</li>
+<li>2012 RoboCup Junior Rescue (Team1)</li>
+<li>2012 RoboCup Junior Rescue (Team2)</li>
+<li>2012 eCybermission</li>
+<li>2012/13 FLL Senior Solutions</li>
+<li>2013/14 FLL Nature's Fury</li>
+<li>2014 Moonbots</li>
+<li>2014/15 FTC</li>
+<li>2015 FTC Summer Scrimmage Season</li>
+<li>2015 WRO (World Robot Olympiad) Senior Regular </li>
+<li>2015/16 VRC (VEX Robotics Competition) Team1</li>
+<li>2015/16 VRC (VEX Robotics Competition) Team2</li>
+<li>2016 WRO (World Robot Olympiad) Senior Regular </li>
+<li>2016/17 VRC </li>
+<li>2017 CREATE Open </li>
+<li>2017 WRO (World Robot Olympiad) Senior Regular </li>
+<li>2017/18 VRC </li>
+<li>2018 CREATE Open </li>
+<li>2018/19 VRC Team1</li>
+<li>2018/19 VRC Team2</li>
+<li>2019 CREATE Open</li>
+<li>2019/2020 VRC</li>
+</ul>
             ]]>
         </content>
     </entry>
